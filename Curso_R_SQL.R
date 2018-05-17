@@ -79,3 +79,9 @@ View(tabela)
 
 #CONTINUA//CONTINUA//CONTINUA//CONTINUA//CONTINUA//CONTINUA//CONTINUA
 #//CONTINUA//CONTINUA//CONTINUA//CONTINUA//CONTINUA//CONTINUA
+
+#Ver isso para aprender MarkDown
+#https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf
+
+#Isso para baixar Git
+#https://git-scm.com/download/win
